@@ -125,8 +125,8 @@ h1 {
   .col-md-12 {
     width: 100%;
   }
-  .col-md-6.menu-container {
-    height: 189px;
+  .col-md-6 .menu-container {
+    height: 195px;
   }
 }
 
